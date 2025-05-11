@@ -1,8 +1,6 @@
 {
 	"functions": {
-		"api/hello.go": {
-			"runtime": "go1.x"
-		}
+		"api/hello.go": {}
 	},
 	"routes": [
 		{
