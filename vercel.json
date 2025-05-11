@@ -1,6 +1,8 @@
 {
 	"functions": {
-		"api/hello.go": {}
+		"api/hello.go": {
+			"runtime": "@vercel/go@0.0.1"
+		}
 	},
 	"routes": [
 		{
